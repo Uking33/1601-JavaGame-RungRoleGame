@@ -1,0 +1,11 @@
+AD         AAAAAAA              IIIIIIIIIIIIIIIIIIIIIIIIIII
+AD                                        I               c
+AD                     IIIIIII                I           C
+AD                                            I           C
+AD                          *                             C
+AD                      IIIII                             C
+AD                                     *                  C
+AD                                  IIIIIIIIIIIII         C
+AD                     *                              III C
+AD             EBBBBBBBBBBBBBBBF             *            C
+AHBBBBBBBBBBBBBBGAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBG
